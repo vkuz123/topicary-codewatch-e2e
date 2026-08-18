@@ -15,3 +15,6 @@ This is reusable R15 audit content inserted via component reference.
 
 projects, types are included automatically.
 
+
+
+REMOTE-EDIT-LOCKED: this edit targets a locked topic (§F step 4).
