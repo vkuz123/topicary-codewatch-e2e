@@ -21,5 +21,4 @@ curl https://api.acme.com/v2/resources \
 ```
 
 > [!NOTE]
-> The base URL (https://api.acme.com/v2) is swapped automatically per publish target — staging points somewhere else.
-
+> The base URL ([https://api.acme.com/v2](https://api.acme.com/v2)) is swapped automatically per publish target — staging points somewhere else.
