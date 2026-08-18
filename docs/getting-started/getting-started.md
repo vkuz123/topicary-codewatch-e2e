@@ -9,7 +9,7 @@ Welcome to Acme Platform. This guide walks you through initial setup and your fi
 
 Before you begin, make sure you have Node.js 18 or later installed and an active Acme Corp account. If you are evaluating, a free account is enough to follow every step in this guide.
 
-This feature is currently in beta. Its API may change in future releases without notice.
+This feature is currently in beta — REMOTE-EDIT-2 (conflict trigger). Its API may change in future releases without notice.
 
 ## How this guide is organized
 
