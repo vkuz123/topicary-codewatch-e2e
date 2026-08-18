@@ -3,7 +3,7 @@ title: "Getting Started"
 status: published
 ---
 
-Welcome to Acme Platform. This guide walks you through initial setup and your first API call — most teams are up and running in under 15 minutes.
+Welcome to Acme Platform. This guide walks you through initial setup and your first API call — most teams are up and running in under 15 minutes — FF-EDIT-1 (remote-only, expect fast-forward).
 
 ## What you need
 
