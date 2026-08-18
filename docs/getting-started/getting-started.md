@@ -3,7 +3,7 @@ title: "Getting Started"
 status: published
 ---
 
-Welcome to Acme Platform. This guide walks you through initial setup and your first API call — most teams are up and running in under 15 minutes.
+Welcome to Acme Platform. This guide walks you through initial setup and your first API call — most teams are up and running in under 10 minutes — REMOTE-EDIT-1 from GitHub (git-sync §F step 2).
 
 ## What you need
 
